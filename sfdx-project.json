@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "salesforce/force-app",
+      "default": true
+    }
+  ],
+  "name": "salesforce-renewal-risk-gds-pipeline",
+  "namespace": "",
+  "sourceApiVersion": "61.0"
+}
